@@ -108,13 +108,13 @@ async def get_today_crowd_summary():
         # Location coordinates (you can modify these based on your actual locations)
         location_coords = {
             "DPR": {"latitude": -6.2088, "longitude": 106.8456},
-            "Patung Kuda": {"latitude": -6.1751, "longitude": 106.865},
+            "Patung Kuda": {"latitude": -6.1751, "longitude": 106.8263},
             "Bundaran HI": {"latitude": -6.1944, "longitude": 106.8229},
-            "Monas": {"latitude": -6.1751, "longitude": 106.865},
-            "GBK": {"latitude": -6.2297, "longitude": 106.6894},
-            "Istana Negara": {"latitude": -6.1751, "longitude": 106.865},
-            "Bundaran Senayan": {"latitude": -6.2297, "longitude": 106.6894},
-            "Mabes Polri": {"latitude": -6.1751, "longitude": 106.865}
+            "Monas": {"latitude": -6.1751, "longitude": 106.8263},
+            "GBK": {"latitude": -6.2297, "longitude": 106.8019},
+            "Istana Negara": {"latitude": -6.1751, "longitude": 106.8263},
+            "Bundaran Senayan": {"latitude": -6.2297, "longitude": 106.8019},
+            "Mabes Polri": {"latitude": -6.1751, "longitude": 106.8263}
         }
         
         # Add coordinates to location data
